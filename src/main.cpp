@@ -23,7 +23,7 @@ WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP);
 
 // OpenWeatherMap API key
-String openWeatherMapApiKey = "cc81beca1e8ddf347b5ff6595cd61362";
+String openWeatherMapApiKey = "Your  OpenWeatherMap API key ";
 // Example API key: String openWeatherMapApiKey = "00c7969671a44223ca44f";
 
 // News API API key
